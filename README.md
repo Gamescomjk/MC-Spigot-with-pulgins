@@ -8,6 +8,7 @@ How to Allowcate more or less ram
 Goto run.bat and right click and edit you will see somthing like this
 
 java -Xmx3G -jar spigot-1.16.3.jar
+
 pause
 
 Now to Change how much ram to allowcate change this number 3
