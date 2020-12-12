@@ -1,4 +1,0 @@
-NoPermission: "&cYou do not have permission to use /smelt"
-UnsmeltableItem: "&cYou can not smelt that item"
-SuccessfulSmelt: "&a Smelted %OLDITEM% to %NEWITEM%!"
-
