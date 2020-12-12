@@ -15,3 +15,5 @@ Now to Change how much ram to allowcate change this number 3
 to how much ram you want to put a good rule is for every 5 players put 1 GB of ram but to have a good time on the server keep the ram at 3 and as you get more people then put more.
 
 To start the server download the server and open run.bat and press a key.
+
+The server will be on cracked mode by defualt if you want to disable it then goto server.properties and set online mode to true
